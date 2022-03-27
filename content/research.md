@@ -19,6 +19,18 @@ anthonygc
 
 2 March 2022
 
+### Merging the Gap
+
+The GANS model is an Artifical Neural Network (ANN) that is able generate models that are similar to that of the training data set. The GANS model stands for "Generative Adversarial Networks". There is a noticeable gap that is present within this model and tools sucha as blender. Blender is capable of running plugins that are user made. It would be interesting to utilize the ability to write and understand the GANS model within Blender. Thus, I would like to answer, in what way can a GANS model be used for 3D Generation of models within Blender.
+
+Broadly speaking, below are some steps I intend on using (however, this is subject to change):
+
+  - Create one reference model.
+  - Generate more that is randomized in color and/ or texture
+  - Learn more about the improvised model for GANS model and come up with an idea on how to abstract binary information on 3D object
+  - Use the info as training set.
+  - After completed trial, program a system that would automate the steps above.
+
 ### About
 
 Describe the software resource and explain its relevance to your topic. Please include the link to the software resource.
