@@ -5,6 +5,65 @@ slug = "research"
 
 ## Research & Tutorials
 
+### Feasibility of Project 03/29/22
+
+**1. Required Hardware**
+
+- Since this is dependent on graphics, I will need a dedicated __GPU__.
+- I will also be running machine learning operations, I will also need to have a decent __central processing unit__.
+- It may also be helpful to have sufficient space with regards to the SSD or Hardrive.
+
+   - Currently, I have a Nvidia 2070 Super GPU and an Intel I7 CPU
+   - I also have a 1 Terabyte M.2 SSD
+
+
+**2. Tools**
+
+With reference to the library and learning resources, I will likely be using:
+
+- Tensor Flow Library
+- Kaggle for practice Data Sets
+- [GANS](https://notebook.community/jonbruner/generative-adversarial-networks/gan-notebook)
+- [3D GANS](https://medium.com/analytics-vidhya/applying-generative-adversarial-network-to-generate-novel-3d-images-ba70e1176dac)
+- [3D GANS Paper](https://www.atlantis-press.com/journals/ijcis/125911591/view#sec-s1)
+
+With regards to the software tools, I will be using:
+
+- Blender
+- Unreal Engine
+
+**3. Skills** 
+
+I am very efficient at using Blender and Unreal Engine. However, I am still new to the world of Machine learning and AI. It will be important for me to learn this field in a deep manner.
+
+**4. Data**
+
+My project is reliant on Mesh Data and is dependent on the developer for input. I will likely creat my own sample set in this case.
+
+**5. Time**
+
+This project will likely take a month and a half for implementation.
+
+**6. Results**
+
+The results are represented visually. Whatever the GANS model generates is the results. These are the final output because it has passed the decriminator.
+
+**7. Analysis**
+
+We can test to see how long it took until the descriminator was not able to tell between the fake and generated versions of mesh data. It might also be possible to plug the output into another discriminator.
+
+**8. Other abilities and resources**
+
+The main thing that is needed for this project is a deep understanding on how machine learning algorithms work.
+
+**9. Threats to Validity**
+
+I don't see any threats to Validity. There may of course be some threats considering the 3D version of the GANS model is quite new.
+
+
+
+
+
 ### Merging the Gap
 
 The GANS model is an Artifical Neural Network (ANN) that is able generate models that are similar to that of the training data set. The GANS model stands for "Generative Adversarial Networks". There is a noticeable gap that is present within this model and tools sucha as blender. Blender is capable of running plugins that are user made. It would be interesting to utilize the ability to write and understand the GANS model within Blender. Thus, I would like to answer, in what way can a GANS model be used for 3D Generation of models within Blender.
