@@ -1,7 +1,9 @@
 +++
-title = "blog"
+title = "What brewing?"
 slug = "blog"
 +++
 
-### Know Unity? Want to learn mixed reality? Here is how to deploy to the Hololens 2.
+## Interested in Mixed Reality?
+
+### Here is my experience with deploying an app to the Hololens 2
 
