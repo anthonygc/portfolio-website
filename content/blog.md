@@ -1,6 +1,6 @@
 +++
-title = "Contact"
-slug = "contact"
+title = "blog"
+slug = "blog"
 +++
 
 ### Know Unity? Want to learn mixed reality? Here is how to deploy to the Hololens 2.
