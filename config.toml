@@ -129,6 +129,11 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
+name = "Blog"
+weight = 3
+url = "blog/"
+
+[[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
 url = "contact/"
@@ -150,7 +155,7 @@ url = "about/"
 
 [[languages.pt-br.menu.main]]
 name = "Blog"
-weight = 2
+weight = 3
 url = "blog/"
 
 [[languages.pt-br.menu.main]]
