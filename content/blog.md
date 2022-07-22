@@ -1,5 +1,5 @@
 +++
-title = "What brewing?"
+title = "Blog"
 slug = "blog"
 +++
 
