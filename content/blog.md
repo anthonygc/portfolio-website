@@ -3,9 +3,7 @@ title = "Blog"
 slug = "blog"
 +++
 
-# What is it like to build a Mixed Reality Application with no Experience!
-
-## You can do it too!
+# What is it like to build a Mixed Reality Application with no Experience! (You can do it too!)
 
 
 ### Overview
